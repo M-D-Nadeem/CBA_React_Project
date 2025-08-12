@@ -8,6 +8,7 @@ import { emailMatch } from '../helper/regexMatch';
 import { createAccount, loginAccount } from '../redux/slice/authSlice';
 import { Link, useNavigate } from 'react-router-dom';
 
+//Login component
 const LogInpage=()=>{
 
 const navigate=useNavigate()
