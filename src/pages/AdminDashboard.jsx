@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import ComplaintsChart from "./complainsChart";
 import { useDispatch } from "react-redux";
 import { getAllProperty } from "../redux/slice/propertySlice";
-
+//Admin Dashboard
 function AdminDashboard() {
   const navigate = useNavigate();
   const [propertyData, setPropertyData] = useState([]);
@@ -110,7 +110,7 @@ function AdminDashboard() {
                   <ul className="divide-y divide-gray-200">
                     {propertyData &&
                       propertyData.map((data) => (
-                        <li key={data.id} className="py-2">
+                        <li key={data.id} className="py-3">
                           <motion.button
                             whileHover={{ scale: 1.05 }}
                             whileTap={{ scale: 0.95 }}
