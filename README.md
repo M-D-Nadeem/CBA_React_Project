@@ -143,7 +143,4 @@ Start the frontend development server:
 - [@MD Nadeem](https://github.com/M-D-Nadeem)
 
 
-## Demo
 
-
-https://youtu.be/SQVBaJzQIPg
