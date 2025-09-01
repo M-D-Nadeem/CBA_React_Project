@@ -141,6 +141,6 @@ Start the frontend development server:
 ## Authors
 
 - [@MD Nadeem](https://github.com/M-D-Nadeem)
-
+- [@Mandan Mishra](https://github.com/Mandan04)
 
 
